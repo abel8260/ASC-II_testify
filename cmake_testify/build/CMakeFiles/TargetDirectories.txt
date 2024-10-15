@@ -1,0 +1,3 @@
+/home/abel/Documents/projectcodeblock02/cmake_testify/build/CMakeFiles/MyProject.dir
+/home/abel/Documents/projectcodeblock02/cmake_testify/build/CMakeFiles/edit_cache.dir
+/home/abel/Documents/projectcodeblock02/cmake_testify/build/CMakeFiles/rebuild_cache.dir
